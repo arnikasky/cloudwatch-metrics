@@ -1,5 +1,4 @@
 import boto3
-import pytest_localstack
 
 
 class MockConfig:
